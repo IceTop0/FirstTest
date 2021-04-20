@@ -1,0 +1,8 @@
+.
+..
+example
+file
+files
+file.txt
+.file.txt.swp
+natali.txt
